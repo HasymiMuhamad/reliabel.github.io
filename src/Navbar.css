@@ -1,0 +1,38 @@
+.main-navbar  {
+    float: left;
+    color: white;
+    background-color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  }
+
+.main-navbar .sub-navbar .line-1 {
+      color: mediumseagreen;
+      margin-left: 30px;
+      font-weight: bold;
+      font-size: 40px;
+  }
+
+.main-navbar .sub-navbar .line-2 {
+    color: rgb(39, 43, 42);
+    margin-left: 400px;
+    font-weight: bold;
+    font-size: 20px;
+    
+    
+}
+
+.main-navbar .sub-navbar .line-3 {
+    color: rgb(48, 56, 52);
+    margin-left: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ 
+  
